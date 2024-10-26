@@ -8,7 +8,7 @@
 
 
 
-# 0188springboot基于SpringBoot电商平台的设计与实现
+# springboot189基于SpringBoot电商平台的设计与实现
 
 ## 5.1 功能实现
 ### 5.1.1 公告信息管理
@@ -79,7 +79,6 @@
 ![](/md/blog.026.png)
 
 图5.11 商品订单界面
-
 
 
 
